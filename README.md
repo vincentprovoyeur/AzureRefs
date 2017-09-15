@@ -3,6 +3,7 @@ Azure learning references
 
 -----         Azure automation     ------------------
 Automate login for Azure Powershell scripts with Service Principals: 
+
 https://cmatskas.com/automate-login-for-azure-powershell-scripts/
 
 -----         Azure Key Vault      ------------------
