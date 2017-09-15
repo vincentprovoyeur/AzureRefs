@@ -4,7 +4,7 @@ Azure learning references
 -----         Azure automation     ------------------
 Automate login for Azure Powershell scripts with Service Principals: 
 
-https://cmatskas.com/automate-login-for-azure-powershell-scripts/
+https://docs.microsoft.com/en-us/powershell/azure/authenticate-azureps?view=azurermps-4.3.1
 
 -----         Azure Key Vault      ------------------
 Use Azure Key Vault from a Web Application:
