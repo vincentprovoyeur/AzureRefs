@@ -24,3 +24,8 @@ https://msdn.microsoft.com/en-us/magazine/mt793270.aspx
 
 Good comparison of App Svc and  ASE v2: 
 https://blog.mexia.com.au/when-to-use-an-app-service-environment-v2 
+
+
+
+#IdentityServer4
+
