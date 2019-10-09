@@ -27,5 +27,6 @@ https://blog.mexia.com.au/when-to-use-an-app-service-environment-v2
 
 
 
-#IdentityServer4
+#Visual Studio 2019
+vs_enterprise__2023145873.1570588943.exe --layout c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --lang en-US
 
