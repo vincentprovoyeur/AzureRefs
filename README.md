@@ -5,6 +5,8 @@
   Install
   vs_enterprise__2023145873.1570588943.exe c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb
 
+# GitHUB repository (my)
+https://guthub.com/vincentprovoyeur/identityserver4
 
 # AzureRefs
 Azure learning references
