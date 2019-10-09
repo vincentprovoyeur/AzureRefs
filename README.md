@@ -1,5 +1,9 @@
 # Visual Studio 2019 install, updates, etc..
-vs_enterprise__2023145873.1570588943.exe --layout c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --lang en-US
+  Download
+  vs_enterprise__2023145873.1570588943.exe --layout c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --lang en-US
+
+  Install
+  vs_enterprise__2023145873.1570588943.exe c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb
 
 
 # AzureRefs
