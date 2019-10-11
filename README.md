@@ -1,13 +1,27 @@
-# Visual Studio 2019 install, updates, etc..
-  Download
+# Visual Studio 2019
+  
+  -Download
   vs_enterprise__2023145873.1570588943.exe --layout c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --lang en-US
-
-  Install
+  
+  -Install
   vs_enterprise__2023145873.1570588943.exe c:\VSLayout --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb
 
-# GitHUB repositories (mine)
-https://guthub.com/vincentprovoyeur/identityserver4
-https://guthub.com/vincentprovoyeur/docs
+
+# GitHUB repo
+   https://guthub.com/vincentprovoyeur/docs
+
+# Identityserver
+- clone git repo https://github.com/IdentityServer/IdentityServer4
+- open a developer powershell for VS2019 and in root directory of the repo type clean.ps1 and build.ps1
+
+
+
+
+
+
+
+
+
 
 # AzureRefs
 Azure learning references
